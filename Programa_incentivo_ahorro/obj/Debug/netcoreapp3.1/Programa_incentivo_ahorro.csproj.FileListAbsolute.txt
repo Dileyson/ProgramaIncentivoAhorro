@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\bin\Debug\netcoreapp3.1\Programa_incentivo_ahorro.exe
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\bin\Debug\netcoreapp3.1\Programa_incentivo_ahorro.deps.json
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\bin\Debug\netcoreapp3.1\Programa_incentivo_ahorro.runtimeconfig.json
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\bin\Debug\netcoreapp3.1\Programa_incentivo_ahorro.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\bin\Debug\netcoreapp3.1\Programa_incentivo_ahorro.dll
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\bin\Debug\netcoreapp3.1\Programa_incentivo_ahorro.pdb
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\obj\Debug\netcoreapp3.1\Programa_incentivo_ahorro.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\obj\Debug\netcoreapp3.1\Programa_incentivo_ahorro.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\obj\Debug\netcoreapp3.1\Programa_incentivo_ahorro.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\obj\Debug\netcoreapp3.1\Programa_incentivo_ahorro.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\obj\Debug\netcoreapp3.1\Programa_incentivo_ahorro.dll
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\obj\Debug\netcoreapp3.1\Programa_incentivo_ahorro.pdb
+C:\Users\Asus\source\repos\Programa_incentivo_ahorro\obj\Debug\netcoreapp3.1\Programa_incentivo_ahorro.genruntimeconfig.cache
